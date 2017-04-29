@@ -7,4 +7,4 @@ The process is very simple the user input name and the machine output male or fe
 For this the package used is Nltk (Natural language tool kit)
 
 ##Find me
-http://chitrankagnihotri.com
+https://chitrankagnihotri.herokuapp.com
